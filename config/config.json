@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "mJkYH4FHHnrblKlMERqq",
+    "database": "railway",
+    "host": "containers-us-west-162.railway.app",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "mJkYH4FHHnrblKlMERqq",
+    "database": "railway",
+    "host": "containers-us-west-162.railway.app",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "mJkYH4FHHnrblKlMERqq",
+    "database": "railway",
+    "host": "containers-us-west-162.railway.app",
+    "dialect": "mysql"
+  }
+}
